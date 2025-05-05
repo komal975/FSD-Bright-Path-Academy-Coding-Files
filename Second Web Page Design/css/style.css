@@ -1,0 +1,40 @@
+body{
+    margin: 0 auto;
+    max-width: 1170px;
+    border: 1px solid red;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    text-align: center;
+}
+
+header .contactLink{
+    color: darksalmon;
+}
+
+#section2{
+    background-color: yellow;
+}
+
+#section2 button{
+    color: white;
+    background-color: black;
+}
+
+.submitButton{
+    border-radius: 30%;
+    border: 10px 0px 10px 0px;
+    background-color: yellow;
+    width: 180px;
+}
+.leftier img{
+    border-radius: 50%;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+}
+.margined{
+    margin-left: 20px;
+    background-color:  rgb(227, 227, 236);
+    width: 360px;
+    text-align: left;
+}
